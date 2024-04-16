@@ -1,0 +1,18 @@
+﻿  Tetris.cpp
+C:\Users\koteg\Desktop\C++shka\Tetris\Tetris.cpp(7,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\koteg\Desktop\C++shka\Tetris\Tetris.cpp(79,26): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\koteg\Desktop\C++shka\Tetris\Tetris.cpp(115,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\koteg\Desktop\C++shka\Tetris\Tetris.cpp(115,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\koteg\Desktop\C++shka\Tetris\Tetris.cpp(119,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\koteg\Desktop\C++shka\Tetris\Tetris.cpp(119,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\koteg\Desktop\C++shka\Tetris\Tetris.cpp(143,57): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\koteg\Desktop\C++shka\Tetris\Tetris.cpp(143,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\koteg\Desktop\C++shka\Tetris\Tetris.cpp(165,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\koteg\Desktop\C++shka\Tetris\Tetris.cpp(165,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\koteg\Desktop\C++shka\Tetris\Tetris.cpp(177,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\koteg\Desktop\C++shka\Tetris\Tetris.cpp(177,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\koteg\Desktop\C++shka\Tetris\Tetris.cpp(185,30): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\koteg\Desktop\C++shka\Tetris\Tetris.cpp(191,32): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\koteg\Desktop\C++shka\Tetris\Tetris.cpp(200,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\koteg\Desktop\C++shka\Tetris\Tetris.cpp(200,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Tetris.vcxproj -> C:\Users\koteg\Desktop\C++shka\Tetris\x64\Debug\Tetris.exe
