@@ -1,0 +1,5 @@
+﻿  Bomb (Saper).cpp
+C:\Users\koteg\Desktop\C++shka\Bomb (Saper)\Bomb (Saper).cpp(33,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\koteg\Desktop\C++shka\Bomb (Saper)\Bomb (Saper).cpp(185,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\koteg\Desktop\C++shka\Bomb (Saper)\Bomb (Saper).cpp(185,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Bomb (Saper).vcxproj -> C:\Users\koteg\Desktop\C++shka\Bomb (Saper)\x64\Debug\Bomb (Saper).exe
